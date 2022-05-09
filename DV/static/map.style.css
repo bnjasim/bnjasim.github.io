@@ -1,0 +1,56 @@
+#map-svg {
+    width:  100%;
+    height: auto;
+}
+
+.countries {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.legendThreshold {
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.caption {
+    fill: #000;
+    text-anchor: start;
+    font-weight: bold;
+}
+
+h1.title {
+    margin-top: 20px;
+}
+
+#trade-dropdown {
+    width: 100%;
+}
+
+#category-selector {
+    display: block;
+    margin: 0 auto;
+}
+
+#top10 {
+    margin-top: 20px;
+}
+
+#mainTab {
+    margin-top: -30px;
+}
+
+.tab-pane {
+    min-height: 300px;
+}
+
+.info-content {
+    margin-top: 20px;
+    padding: 5px;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none !important;
+}

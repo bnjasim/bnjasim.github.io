@@ -17,6 +17,8 @@ If you like the theme, give it a star!
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
+## My Strategy to Build the Site
+This folder (al-folio) will contain the jekyll templates and build setup (config files etc.). I will write the blog here. I can version control this in bitbucket. But the generated static files will go to another folder (bnjasim.github.io).
 
 ## User community
 
